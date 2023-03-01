@@ -18,6 +18,9 @@ contract Testapp {
     string public name = "test";
 }
 ```
+## Déploiement sur notre blockchain en local
+
+- Créer un script pour compiler notre smart contract avec Truffle et déployer sur notre blockchain Ganache puis voir le solde se baisser
 
 ## Pour comprendre
 - https://github.com/dappuniversity/starter_kit
